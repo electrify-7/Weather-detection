@@ -1,4 +1,4 @@
-const apikey = "897d4dafb488673994296ff0f360c948";
+const apikey = "<add-your-own-api-key>";
 
 
 function numtomonth(value) {
